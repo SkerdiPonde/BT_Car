@@ -33,5 +33,8 @@ During motor use, the current draw from the 6V battery pack can cause the ESP32 
   - Distance Measurement: Investigate using encoders on the wheels for accurate cell-to-cell distance tracking.
 
 ## Dependencies
-- [**esp32-ps3**](https://github.com/jvpernis/esp32-ps3): Library for PS3 controller Bluetooth communication with the ESP32 by [jvpernis](https://github.com/jvpernis).
+- **esp32-ps3**: Library for PS3 controller Bluetooth communication with the ESP32.
 - **ESP32 Board Package**: Required for compiling and uploading code to the ESP32.
+
+## Sources/References
+- [**esp32-ps3**](https://github.com/jvpernis/esp32-ps3) by [jvpernis](https://github.com/jvpernis)
