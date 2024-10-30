@@ -36,5 +36,5 @@ During motor use, the current draw from the 6V battery pack can cause the ESP32 
 - **esp32-ps3**: Library for PS3 controller Bluetooth communication with the ESP32.
 - **ESP32 Board Package**: Required for compiling and uploading code to the ESP32.
 
-## Sources/References
+## Sources
 - [**esp32-ps3**](https://github.com/jvpernis/esp32-ps3) by [jvpernis](https://github.com/jvpernis)
